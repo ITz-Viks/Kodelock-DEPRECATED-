@@ -19,3 +19,4 @@ How to install:
 Alternativley you could open command prompt cd into the directory of Kodelock and launch it directly with  python Kodelock.py
 
 In case something isn't working for you and you've followed the instructions message me on discord ITzViks#7482
+![preview](https://user-images.githubusercontent.com/66530955/142982262-1332ceb8-1110-4fb6-8f17-d4e8bd5ec5fa.png)
