@@ -53,6 +53,7 @@ Change the path like this:
 2) Search python and right click python 3.10 or whichever version you have installed and open file location
 3) Once opened it should llead you to a folder with 4 files right click "Python3.10 (64-bit) open file location again 
 4) Now open the Scripts folder and copy the path. (This is a path) ![scripts](https://user-images.githubusercontent.com/66530955/143000977-0e7635ad-60d2-41e2-9c56-84993c79b7f1.png)
-5) Once copied put that on setx PATH %PATH%;C: so it should look like this
+NOTE: I have python 3.9 installed yours should be 3.10 but as long as it's a 3.X it'll work
+6) Once copied put that on setx PATH %PATH%;C: so it should look like this
 setx PATH %PATH%;C:<Path you copied> 
-6) Press Enter (You might have to give it a minute after the draft completes) 
+7) Press Enter (You might have to give it a minute after the draft completes) 
