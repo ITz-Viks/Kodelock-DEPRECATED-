@@ -1,64 +1,64 @@
+#!/bin/python3
+
+from pathlib import Path
+
 from tkinter import *
-from PIL import ImageTk, Image 
+from PIL import ImageTk, Image
 from pynput import keyboard
 
+
 # Placeholder & Files
-app = Tk()
-codes = open("codes.txt", "r")
-CodeFace = Image.open("./imgs/Face.jpg")
-LeftArrow = Image.open("./imgs/LeftArr.png")
+codes = "codes.txt"
+code_list = Path(codes).read_text().splitlines()
+
+CodeFace  = Image.open("./imgs/Face.jpg")
+LeftArrow  = Image.open("./imgs/LeftArr.png")
 RightArrow = Image.open("./imgs//RightArr.png")
 
 # Settings
+app = Tk()
 app.geometry("400x580")
 app.title("Kodelock")
 
-# Commands
 
+# Commands
 def next():
     SF = int(Start_from.get())
     SF = SF+1
-    current_code['text']= list[SF]
+    current_code['text'] = code_list[SF]
     Start_from.delete(0, "end")
     Start_from.insert(0, SF)
 
 def pre():
     SF = int(Start_from.get())
     SF = SF-1
-    current_code['text']= list[SF]
+    current_code['text'] = code_list[SF]
     Start_from.delete(0, "end")
     Start_from.insert(0, SF)
 
 def SET():
     SF = int(Start_from.get())
-    current_code['text']= list[SF]
+    current_code['text'] = code_list[SF]
     Start_from.delete(0, "end")
     Start_from.insert(0, SF)
-# List Handler
-list = []
 
-for line in codes:
-    stripped_line = line.strip()
-    line_list = stripped_line.split()
-    list.append(line_list)
-codes.close()
 
 # Essential
-Face = ImageTk.PhotoImage(CodeFace) 
+Face = ImageTk.PhotoImage(CodeFace)
 CodeFace = Label(image=Face)
 rightkey = Label(app, text="Bind:\n RKey", font=("Ariel",10))
 leftkey = Label(app, text="Bind:\n LKey", font=("Ariel",10))
-Start_fromL = Label(app,text="Start From:", font=("Ariel",13),bg="#f55919")   
+Start_fromL = Label(app,text="Start From:", font=("Ariel",13),bg="#f55919")
 Set = Button(app,text="Set", command=SET)
 
 # Start From: , Current: , and Code display
 current_code = Label(app, text="", font=("Ariel",30), bg="black", fg="white")
 Start_from = Entry(app, bg="red", font=("Ariel",18))
 
-# Arrow buttons 
+# Arrow buttons
 resized_left = LeftArrow.resize((55, 42))
 Left = ImageTk.PhotoImage(resized_left)
-leftbutton = Button(app, image=Left,bg="#f55919", command=pre) 
+leftbutton = Button(app, image=Left,bg="#f55919", command=pre)
 
 resized_right = RightArrow.resize((55, 42))
 Right = ImageTk.PhotoImage(resized_right)
