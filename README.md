@@ -19,7 +19,8 @@ How to install:   (If you have erros go all the way to the bottom to find a solu
 Alternativley you could open command prompt cd into the directory of Kodelock and launch it directly with  python Kodelock.py
 
 In case something isn't working for you and you've followed the instructions message me on discord ITzViks#7482
-![preview](https://user-images.githubusercontent.com/66530955/142982262-1332ceb8-1110-4fb6-8f17-d4e8bd5ec5fa.png)
+![scf](https://user-images.githubusercontent.com/66530955/144486461-bf786b59-9119-4fef-a995-6db3980b4ed8.png)
+
 
 I'm pretty sure rust doesn't even work on linux but if you're using linux you need to install the following:
 
