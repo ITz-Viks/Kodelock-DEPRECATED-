@@ -1,4 +1,4 @@
-# Kodelock
+# Kodelock v2
 a tool to assist in code raiding in rust
 
 This tool is designed to be used on a second monitor.
