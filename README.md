@@ -1,22 +1,13 @@
-___________.__    .__         .__                       __         .__               .___._.
-\__    ___/|  |__ |__| ______ |__| ______ ___________ _/  |_  ____ |  |__   ____   __| _/| |
-  |    |   |  |  \|  |/  ___/ |  |/  ___/ \____ \__  \\   __\/ ___\|  |  \_/ __ \ / __ | | |
-  |    |   |   Y  \  |\___ \  |  |\___ \  |  |_> > __ \|  | \  \___|   Y  \  ___// /_/ |  \|
-  |____|   |___|  /__/____  > |__/____  > |   __(____  /__|  \___  >___|  /\___  >____ |  __
-                \/        \/          \/  |__|       \/          \/     \/     \/     \/  \/
-                
-                
-                
-
-___________.__    .__         .__                       __         .__               .___._.
-\__    ___/|  |__ |__| ______ |__| ______ ___________ _/  |_  ____ |  |__   ____   __| _/| |
-  |    |   |  |  \|  |/  ___/ |  |/  ___/ \____ \__  \\   __\/ ___\|  |  \_/ __ \ / __ | | |
-  |    |   |   Y  \  |\___ \  |  |\___ \  |  |_> > __ \|  | \  \___|   Y  \  ___// /_/ |  \|
-  |____|   |___|  /__/____  > |__/____  > |   __(____  /__|  \___  >___|  /\___  >____ |  __
-                \/        \/          \/  |__|       \/          \/     \/     \/     \/  \/
-
-
-There will be no further support for this project
+This method is PATCHED. There will be no further support for this project
+This method is PATCHED. There will be no further support for this project
+This method is PATCHED. There will be no further support for this project
+This method is PATCHED. There will be no further support for this project
+This method is PATCHED. There will be no further support for this project
+This method is PATCHED. There will be no further support for this project
+This method is PATCHED. There will be no further support for this project
+This method is PATCHED. There will be no further support for this project
+This method is PATCHED. There will be no further support for this project
+This method is PATCHED. There will be no further support for this project
 
 
 # Kodelock v2
