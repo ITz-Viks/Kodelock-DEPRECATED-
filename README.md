@@ -1,3 +1,24 @@
+___________.__    .__         .__                       __         .__               .___._.
+\__    ___/|  |__ |__| ______ |__| ______ ___________ _/  |_  ____ |  |__   ____   __| _/| |
+  |    |   |  |  \|  |/  ___/ |  |/  ___/ \____ \__  \\   __\/ ___\|  |  \_/ __ \ / __ | | |
+  |    |   |   Y  \  |\___ \  |  |\___ \  |  |_> > __ \|  | \  \___|   Y  \  ___// /_/ |  \|
+  |____|   |___|  /__/____  > |__/____  > |   __(____  /__|  \___  >___|  /\___  >____ |  __
+                \/        \/          \/  |__|       \/          \/     \/     \/     \/  \/
+                
+                
+                
+
+___________.__    .__         .__                       __         .__               .___._.
+\__    ___/|  |__ |__| ______ |__| ______ ___________ _/  |_  ____ |  |__   ____   __| _/| |
+  |    |   |  |  \|  |/  ___/ |  |/  ___/ \____ \__  \\   __\/ ___\|  |  \_/ __ \ / __ | | |
+  |    |   |   Y  \  |\___ \  |  |\___ \  |  |_> > __ \|  | \  \___|   Y  \  ___// /_/ |  \|
+  |____|   |___|  /__/____  > |__/____  > |   __(____  /__|  \___  >___|  /\___  >____ |  __
+                \/        \/          \/  |__|       \/          \/     \/     \/     \/  \/
+
+
+There will be no further support for this project
+
+
 # Kodelock v2
 a tool to assist in code raiding in rust
 
@@ -18,7 +39,6 @@ How to install:   (If you have erros go all the way to the bottom to find a solu
 
 Alternativley you could open command prompt cd into the directory of Kodelock and launch it directly with  python Kodelock.py
 
-In case something isn't working for you and you've followed the instructions message me on discord ITzViks#7482
 ![scf](https://user-images.githubusercontent.com/66530955/144486461-bf786b59-9119-4fef-a995-6db3980b4ed8.png)
 
 
